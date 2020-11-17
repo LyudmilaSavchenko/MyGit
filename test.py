@@ -1,3 +1,3 @@
-def summ_(a, b):
-    return (a+b)
-print(summ_(4,3))
+def summ_(a, b, c):
+    return (a+b+c)
+print(summ_(4,3,2))
